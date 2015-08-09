@@ -1,0 +1,8 @@
+[package]
+name = "bloom"
+version = "0.1.0"
+authors = ["maralla <maralla.ai@gmail.com>"]
+license = "MIT"
+keywords = ["bloom filter"]
+repository = "https://github.com/maralla/bloom.rs"
+description = "Simple bloom filter in Rust"
